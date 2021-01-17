@@ -1,0 +1,74 @@
+/*полиграфия*/
+body
+{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 2vmax;
+}
+h1{
+    margin-top: 0em;
+    margin-bottom:0.5em;
+    font-size: 4vmax;
+    margin-top: 0em;
+    color:#00008B;
+}
+p{
+    margin-bottom: 2em;
+}
+h4>span{
+    font-weight: lighter;
+}
+/*полиграфия*/
+
+/*стили изображений*/
+img {
+    width:15vmax;
+    height:15vmax;
+    border-radius: 50%;
+    margin: 0;
+}
+h4{
+    border-top:1em;
+}
+/*стили изображений*/
+
+/*формы*/
+form{
+    color:white;
+    background-color: rgb(12, 181, 233);
+    text-align: center;
+    border-radius: 0.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    width: 12em;
+    margin: 0 auto;
+
+}
+input{
+    margin-bottom: 0.5em;
+}
+form p{
+    margin-top: 0px;
+    margin-bottom: 0.5em;
+    font-family: monospace, Andale Mono;
+}
+form [type="password"]{
+    font-size: 2.5vmax;
+    border-radius: 0.25em;
+}
+form [type="submit"]{
+    font-family: monospace, Andale Mono;
+    color:white;
+    margin-bottom: 0px;
+    background-color:ForestGreen;
+    border: 0px;
+    border-radius: 0.5em;
+    padding: 0.5em;
+    border:hidden;
+    outline: none;
+    font-size: 2.5vmax;
+
+}
+/*формы*/
